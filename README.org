@@ -1,6 +1,6 @@
 * Which keyboard layout is the best?
 Keyboards and their layouts are probably one of the most contoversial pieces of computer equipment, especially when you spend almost all your day using them. Not only their feel and typing experience, but also the layout, arguably, plays an important role in your day to day use. Some people say the traditional QWERTY layout is outdated and it is better (and healthier) to switch to a more efficient version. Others argue that the steep learning curve of switching to another layout is not even worth thinking about. 
-** Does the layout really matter?
-Depending on your type of usage i.e., whether you are a python programmer, C++ programmer or a typist, a particular layout would make more sense to you. Using the notebook, you will figure out how using each layout would look like in your experience.
+* Does the layout really matter?
+Depending on your type of usage i.e., whether you are a python programmer, C++ programmer, a typist or etc., a particular layout would make more sense to you. Using the notebook, you will figure out how using each layout would look like in your experience.
 * How should I figure out my best layout?
 You can give a directory and a file extension and the code will look for all of the file types in the dir. It will read those files and generate images of your key strokes for each layout. You may want to choose the layout which has high key strokes at the home row.
